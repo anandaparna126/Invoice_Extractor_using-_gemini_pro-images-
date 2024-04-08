@@ -13,7 +13,7 @@ Clone the Repository
 
 bash
 Copy code
-git clone https://github.com/yourgithub/ocr-extractor.git
+git clone https://github.com/anandaparna126/ocr-extractor.git
 cd ocr-extractor
 Install Dependencies
 
