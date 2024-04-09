@@ -28,7 +28,7 @@ Set up your .env file with your Google API key:
 
 makefile
 Copy code
-GOOGLE_API_KEY=your_google_api_key_here
+GOOGLE_API_KEY="your_google_api_key_here"
 Run the Application
 
 Start the Streamlit application.
