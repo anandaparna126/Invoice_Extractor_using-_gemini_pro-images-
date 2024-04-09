@@ -1,4 +1,5 @@
 OCR Extractor: Generative AI Project
+
 OCR Extractor is a cutting-edge application designed to leverage the power of generative AI for extracting detailed information from images. Using Gemini Pro's capabilities, this project aims to simplify the process of understanding and extracting text from various image formats, including invoices, letters, and documents.
 
 Features
