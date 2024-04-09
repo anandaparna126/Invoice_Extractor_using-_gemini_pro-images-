@@ -53,6 +53,3 @@ Google Generative AI (Gemini Pro): For processing and analyzing the image data.
 The Python Imaging Library (PIL): For handling image files.
 Contributions
 Contributions are welcome! If you have improvements or bug fixes, please feel free to fork the repository and submit a pull request.
-
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
